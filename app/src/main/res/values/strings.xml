@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Savari</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="facebook_app_id">168266913868592</string>
+    <string name="fb_login_protocol_scheme">fb168266913868592</string>
+    <string name="title_activity_main_menu">MainMenuActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_sample">SampleActivity</string>
+</resources>
